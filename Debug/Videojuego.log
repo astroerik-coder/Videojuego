@@ -1,0 +1,53 @@
+﻿  Source.cpp
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(47,24): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(53,19): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(59,29): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(67,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(67,45): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(68,29): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(68,40): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(68,51): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(69,28): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(69,39): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(69,50): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(128,32): warning C4305: 'argumento': truncamiento de 'double' a 'irrklang::ik_f32'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(254,46): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(255,63): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(256,63): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(257,46): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(266,47): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(266,47): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(268,38): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(268,43): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(268,48): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(287,42): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(287,47): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(287,52): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(460,51): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(478,32): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(478,37): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(478,42): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(488,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(489,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(490,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(571,24): warning C4244: 'inicializando': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(572,31): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(582,30): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(583,30): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(586,30): warning C4244: '-=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(587,30): warning C4244: '-=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(645,26): warning C4305: 'argumento': truncamiento de 'double' a 'irrklang::ik_f32'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(660,45): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(660,35): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(661,45): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(661,35): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(662,46): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(662,36): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(663,47): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(663,36): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(665,106): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(666,123): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(667,73): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(668,90): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\erik1\source\repos\Videojuego\Source.cpp(628): warning C4715: 'initTextures': no todas las rutas de acceso de control devuelven un valor
+  Videojuego.vcxproj -> C:\Users\erik1\source\repos\Videojuego\Debug\Videojuego.exe
